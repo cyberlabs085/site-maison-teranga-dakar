@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MAISON TERANGA Symbol Transparent">
+  <title>MAISON TERANGA — Symbol Mark (Transparent)</title>
+  
+    <defs>
+      <linearGradient id="brandGrad_kjqg7x" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#F4D03F"/>
+        <stop offset="50%" stop-color="#D4AF37"/>
+        <stop offset="100%" stop-color="#047857"/>
+      </linearGradient>
+      <linearGradient id="brandGrad_kjqg7x_accent" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+        <stop offset="100%" stop-color="#F4D03F"/>
+      </linearGradient>
+      <linearGradient id="brandGrad_kjqg7x_glow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.8"/>
+        <stop offset="100%" stop-color="#F4D03F" stop-opacity="0.2"/>
+      </linearGradient>
+    </defs>
+  
+  <g id="symbol-mark">
+    
+        <path fill="url(#brandGrad_kjqg7x)" fill-rule="evenodd" d="
+          M 44 48 C 44 41, 49 36, 56 36 L 80 36 C 86 36, 91 39, 94 45 L 128 116 L 162 45 C 165 39, 170 36, 176 36 L 200 36 C 207 36, 212 41, 212 48 L 212 210 C 212 216, 207 220, 200 220 L 176 220 C 169 220, 164 216, 164 210 L 164 118 L 140 168 C 137 174, 131 178, 128 178 C 125 178, 119 174, 116 168 L 92 118 L 92 210 C 92 216, 87 220, 80 220 L 56 220 C 49 220, 44 216, 44 210 Z
+        "/>
+        <polygon points="128,124 150,80 106,80" fill="url(#brandGrad_kjqg7x_accent)" opacity="0.95"/>
+      
+  </g>
+</svg>
